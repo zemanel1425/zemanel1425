@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science MOOC
+- 👀 I’m interested in Data Science and digital twins
+- 🌱 I’m currently learning Open BIM Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
